@@ -1,7 +1,7 @@
 Hola Mi nombre es Mario
 
 Tengo 30 años 
-
+Instalando zsh
 Hola Soy Anita
 
 Y tengo 2 hermanas
